@@ -8,12 +8,11 @@
     margin:auto;
     max-width: 500px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
+    flex-direction: column;
     border-radius: 15px;
     padding: 10px;
     box-shadow: 0 0 10px #000000;
-    
 
 }
 .main_content{
@@ -27,8 +26,8 @@ input[type="email"], input[type="password"]{
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #f3f1f1;
-    border-radius: 4px;
     box-sizing: border-box;
+    border-radius: 4px;
 }
 .main-button{
     background-color: #7386ac;
@@ -55,3 +54,4 @@ input[type="email"], input[type="password"]{
     margin-bottom: 20px;
 
 }
+
